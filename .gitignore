@@ -1,0 +1,10 @@
+# SQLite Database
+happiness.db
+
+# Python Cache
+__pycache__/
+*.pyc
+
+# Local result or temp files
+result.txt
+*.csv_temp
